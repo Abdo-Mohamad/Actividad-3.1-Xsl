@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="libro.xsl"?>
+<llibreria>
+    <llibre>
+        <titol>Meditaciones</titol>
+        <autor>Marco Aurelio</autor>
+        <editor>Debate</editor>
+        <isbn>978-8483068618</isbn>
+        <preu>50.06</preu>
+        <pagines>240</pagines>
+    </llibre>
+    <llibre>
+        <titol>Días de lectura</titol>
+        <autor>Marcel Proust</autor>
+        <editor>Conecta</editor>
+        <isbn>979-8483015277</isbn>
+        <preu>26.00</preu>
+        <pagines>312</pagines>
+    </llibre>
+    <llibre>
+        <titol>Contra el fanatismo</titol>
+        <autor>Voltaire</autor>
+        <editor>Planeta</editor>
+        <isbn>978-1539827474</isbn>
+        <preu>12.00</preu>
+        <pagines>176</pagines>
+    </llibre>
+    <llibre>
+        <titol>El alquimista</titol>
+        <autor>Paulo Coelho</autor>
+        <editor>Planeta</editor>
+        <isbn>978-0062502186</isbn>
+        <preu>9.99</preu>
+        <pagines>208</pagines>
+    </llibre>
+    <llibre>
+        <titol>El principito</titol>
+        <autor>Antoine de Saint-Exupéry</autor>
+        <editor>Salvat</editor>
+        <isbn>978-8426125324</isbn>
+        <preu>8.25</preu>
+        <pagines>251</pagines>
+    </llibre>
+    <llibre>
+        <titol>Cien años de soledad</titol>
+        <autor>Gabriel García Márquez</autor>
+        <editor>Alfaguara</editor>
+        <isbn>978-8497592208</isbn>
+        <preu>10.30</preu>
+        <pagines>560</pagines>
+    </llibre>
+</llibreria>
+
+
